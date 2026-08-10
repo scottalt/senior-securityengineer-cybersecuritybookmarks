@@ -1,43 +1,34 @@
-# 🔐 A Security Engineer's Actual Bookmarks
+<a name="readme-top"></a>
 
-> The real toolkit. These are the resources actually saved in my browser as a senior security engineer, cleaned up and organized. Recon, exploitation, privilege escalation, malware analysis, and the places I go to keep sharp.
+<div align="center">
 
-<p align="center">
-  <b>Curated by <a href="https://scottaltiparmak.com">Scott Altiparmak</a></b> — Senior Information Security Engineer
-</p>
+<img src="./assets/banner.svg" alt="A Security Engineer's Actual Bookmarks" width="100%">
 
-<p align="center">
-  <a href="https://linkedin.com/in/scottaltiparmak"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Scott%20Altiparmak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/scottaltiparmak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@scottaltiparmak-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/scottalt"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-scottalt-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://scottaltiparmak.com"><img alt="Website" src="https://img.shields.io/badge/Website-scottaltiparmak.com-2b90d9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-</p>
+<br/>
 
-<p align="center">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-40+-2b90d9?style=for-the-badge">
-  <img alt="Categories" src="https://img.shields.io/badge/categories-6-6f42c1?style=for-the-badge">
-  <img alt="Focus" src="https://img.shields.io/badge/focus-offensive%20security-e05d44?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=for-the-badge">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=620&lines=40%2B+tools%2C+zero+fluff;Recon+%E2%86%92+Exploit+%E2%86%92+Escalate;A+senior+engineers+real+bookmarks;Save+this.+You+will+need+it+later" alt="typing header">
 
-<p align="center">
-  <b>⭐ Star this repo if it saved you a bookmark folder. ⭐</b>
-</p>
+<br/><br/>
 
----
+[![Stars](https://img.shields.io/github/stars/scottalt/senior-securityengineer-cybersecuritybookmarks?style=for-the-badge&logo=github&color=2ea44f&labelColor=0d1117)](https://github.com/scottalt/senior-securityengineer-cybersecuritybookmarks/stargazers)
+[![Forks](https://img.shields.io/github/forks/scottalt/senior-securityengineer-cybersecuritybookmarks?style=for-the-badge&logo=git&color=00d4ff&labelColor=0d1117)](https://github.com/scottalt/senior-securityengineer-cybersecuritybookmarks/network/members)
+[![Watchers](https://img.shields.io/github/watchers/scottalt/senior-securityengineer-cybersecuritybookmarks?style=for-the-badge&logo=github&color=6f42c1&labelColor=0d1117)](https://github.com/scottalt/senior-securityengineer-cybersecuritybookmarks/watchers)
+[![Last commit](https://img.shields.io/github/last-commit/scottalt/senior-securityengineer-cybersecuritybookmarks?style=for-the-badge&color=e05d44&labelColor=0d1117)](https://github.com/scottalt/senior-securityengineer-cybersecuritybookmarks/commits)
+[![License](https://img.shields.io/badge/license-MIT-2ea44f?style=for-the-badge&labelColor=0d1117)](LICENSE)
 
-## 📑 Table of Contents
+**Curated by [Scott Altiparmak](https://scottaltiparmak.com) — Senior Information Security Engineer**
 
-- [🕵️ Recon & OSINT](#-recon--osint)
-- [💥 Exploitation & Pentest](#-exploitation--pentest)
-- [🪜 Windows Privilege Escalation](#-windows-privilege-escalation)
-- [🦠 Malware & Analysis](#-malware--analysis)
-- [🎓 Learn & Practice](#-learn--practice)
-- [📰 News & Community](#-news--community)
-- [👤 About the Author](#-about-the-author)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [⚠️ Disclaimer](#-disclaimer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott%20Altiparmak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scottaltiparmak)
+[![Instagram](https://img.shields.io/badge/Instagram-@scottaltiparmak-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scottaltiparmak/)
+[![GitHub](https://img.shields.io/badge/GitHub-scottalt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scottalt)
+[![Website](https://img.shields.io/badge/Website-scottaltiparmak.com-2b90d9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scottaltiparmak.com)
+
+### ⭐ If this saved you a bookmark folder, star it and pass it on. ⭐
+
+**Jump to:**
+[🕵️ OSINT](#-recon--osint) · [💥 Pentest](#-exploitation--pentest) · [🪜 Priv-Esc](#-windows-privilege-escalation) · [🦠 Malware](#-malware--analysis) · [🎓 Learn](#-learn--practice) · [📰 News](#-news--community) · [👤 About](#-about-the-author)
+
+</div>
 
 ---
 
@@ -60,6 +51,8 @@ Mapping attack surface, harvesting intel, and finding what's exposed before anyo
 | **[Google Hacking DB](https://www.exploit-db.com/google-hacking-database)** | Dorks that surface exposed files and portals. |
 | **[awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)** | Curated Shodan searches worth bookmarking. |
 
+<div align="right"><sub><a href="#readme-top">↑ back to top</a></sub></div>
+
 ## 💥 Exploitation & Pentest
 
 Payloads, wordlists, and the cheat sheets I reach for mid-engagement.
@@ -75,6 +68,8 @@ Payloads, wordlists, and the cheat sheets I reach for mid-engagement.
 | **[Rapid7 Vuln & Exploit DB](https://www.rapid7.com/db)** | Searchable vulnerability and exploit database. |
 | **[AMSI.fail](https://amsi.fail)** | Generates AMSI bypasses for testing detections. |
 
+<div align="right"><sub><a href="#readme-top">↑ back to top</a></sub></div>
+
 ## 🪜 Windows Privilege Escalation
 
 Enumerate, suggest, and climb on Windows targets.
@@ -85,6 +80,8 @@ Enumerate, suggest, and climb on Windows targets.
 | **[PrivescCheck](https://github.com/itm4n/PrivescCheck)** | Lightweight PowerShell privesc checks. |
 | **[Priv2Admin](https://github.com/gtworek/Priv2Admin)** | Abuse paths for Windows privileges. |
 | **[wesng](https://github.com/bitsadmin/wesng)** | Windows Exploit Suggester, Next Generation. |
+
+<div align="right"><sub><a href="#readme-top">↑ back to top</a></sub></div>
 
 ## 🦠 Malware & Analysis
 
@@ -99,6 +96,8 @@ Detonate, inspect, and verify the unknown.
 | **[CrackStation](https://crackstation.net)** | Fast lookup for unsalted password hashes. |
 | **[Compiler Explorer](https://godbolt.org)** | Inspect what compilers emit, great for RE. |
 
+<div align="right"><sub><a href="#readme-top">↑ back to top</a></sub></div>
+
 ## 🎓 Learn & Practice
 
 Hands-on labs and hardware to keep the skills current.
@@ -108,6 +107,8 @@ Hands-on labs and hardware to keep the skills current.
 | **[TryHackMe](https://tryhackme.com/paths)** | Guided learning paths from beginner to advanced. |
 | **[Hack The Box](https://app.hackthebox.com)** | Realistic machines and challenges to break. |
 | **[Hak5](https://shop.hak5.org)** | Offensive hardware and field gear. |
+
+<div align="right"><sub><a href="#readme-top">↑ back to top</a></sub></div>
 
 ## 📰 News & Community
 
@@ -121,18 +122,31 @@ Where I keep up with what broke today.
 | **[infosec.exchange](https://infosec.exchange)** | The infosec Mastodon community. |
 | **[NIST](https://www.nist.gov)** | Standards, frameworks, and reference material. |
 
+<div align="right"><sub><a href="#readme-top">↑ back to top</a></sub></div>
+
+---
+
+<div align="center">
+
+## 📈 Star History
+
+<a href="https://star-history.com/#scottalt/senior-securityengineer-cybersecuritybookmarks&Date">
+  <img src="https://api.star-history.com/svg?repos=scottalt/senior-securityengineer-cybersecuritybookmarks&type=Date" alt="Star History Chart" width="70%">
+</a>
+
+</div>
+
 ---
 
 ## 👤 About the Author
 
 Hi, I'm **Scott Altiparmak**, a Senior Information Security Engineer with 8+ years of experience focused on identity, cloud security, and automation. This repo is my actual working set of bookmarks, curated and shared so the next person doesn't have to rebuild it from scratch.
 
-If it's useful, connect with me or follow along:
+Connect or follow along:
 
-- 🌐 Website: [scottaltiparmak.com](https://scottaltiparmak.com)
-- 💼 LinkedIn: [in/scottaltiparmak](https://linkedin.com/in/scottaltiparmak)
-- 📸 Instagram: [@scottaltiparmak](https://www.instagram.com/scottaltiparmak/)
-- 🐙 GitHub: [@scottalt](https://github.com/scottalt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott%20Altiparmak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/scottaltiparmak)
+[![Instagram](https://img.shields.io/badge/Instagram-@scottaltiparmak-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/scottaltiparmak/)
+[![Website](https://img.shields.io/badge/Website-scottaltiparmak.com-2b90d9?style=flat-square&logo=googlechrome&logoColor=white)](https://scottaltiparmak.com)
 
 ## 🤝 Contributing
 
@@ -155,6 +169,6 @@ These resources are shared for **education, research, and authorized security te
 
 ---
 
-<p align="center">
-  <sub>Curated by <a href="https://scottaltiparmak.com">Scott Altiparmak</a>. If this was useful, ⭐ the repo and pass it on.</sub>
-</p>
+<div align="center">
+  <sub>Built by <a href="https://scottaltiparmak.com">Scott Altiparmak</a> · ⭐ Star it if it helped · 🔁 Share it with your team</sub>
+</div>
