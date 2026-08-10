@@ -3,10 +3,21 @@
 > The real toolkit. These are the resources actually saved in my browser as a senior security engineer, cleaned up and organized. Recon, exploitation, privilege escalation, malware analysis, and the places I go to keep sharp.
 
 <p align="center">
+  <b>Curated by <a href="https://scottaltiparmak.com">Scott Altiparmak</a></b> — Senior Information Security Engineer
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/scottaltiparmak"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Scott%20Altiparmak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/scottaltiparmak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@scottaltiparmak-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/scottalt"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-scottalt-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://scottaltiparmak.com"><img alt="Website" src="https://img.shields.io/badge/Website-scottaltiparmak.com-2b90d9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</p>
+
+<p align="center">
   <img alt="Resources" src="https://img.shields.io/badge/resources-40+-2b90d9?style=for-the-badge">
   <img alt="Categories" src="https://img.shields.io/badge/categories-6-6f42c1?style=for-the-badge">
   <img alt="Focus" src="https://img.shields.io/badge/focus-offensive%20security-e05d44?style=for-the-badge">
-  <img alt="PRs" src="https://img.shields.io/badge/PRs-welcome-2ea44f?style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -23,7 +34,9 @@
 - [🦠 Malware & Analysis](#-malware--analysis)
 - [🎓 Learn & Practice](#-learn--practice)
 - [📰 News & Community](#-news--community)
+- [👤 About the Author](#-about-the-author)
 - [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 - [⚠️ Disclaimer](#-disclaimer)
 
 ---
@@ -110,6 +123,17 @@ Where I keep up with what broke today.
 
 ---
 
+## 👤 About the Author
+
+Hi, I'm **Scott Altiparmak**, a Senior Information Security Engineer with 8+ years of experience focused on identity, cloud security, and automation. This repo is my actual working set of bookmarks, curated and shared so the next person doesn't have to rebuild it from scratch.
+
+If it's useful, connect with me or follow along:
+
+- 🌐 Website: [scottaltiparmak.com](https://scottaltiparmak.com)
+- 💼 LinkedIn: [in/scottaltiparmak](https://linkedin.com/in/scottaltiparmak)
+- 📸 Instagram: [@scottaltiparmak](https://www.instagram.com/scottaltiparmak/)
+- 🐙 GitHub: [@scottalt](https://github.com/scottalt)
+
 ## 🤝 Contributing
 
 Found something that belongs here? Contributions welcome.
@@ -121,7 +145,9 @@ Found something that belongs here? Contributions welcome.
 
 Missing a category you'd want (cloud, mobile, threat intel, blue team)? Open an issue and suggest it.
 
----
+## 📜 License
+
+Released under the [MIT License](LICENSE). Copyright © 2026 Scott Altiparmak. Use it, fork it, share it.
 
 ## ⚠️ Disclaimer
 
@@ -130,5 +156,5 @@ These resources are shared for **education, research, and authorized security te
 ---
 
 <p align="center">
-  <sub>Curated by a senior security engineer. If this was useful, ⭐ the repo and pass it on.</sub>
+  <sub>Curated by <a href="https://scottaltiparmak.com">Scott Altiparmak</a>. If this was useful, ⭐ the repo and pass it on.</sub>
 </p>
