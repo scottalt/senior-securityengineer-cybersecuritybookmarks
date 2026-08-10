@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="A Security Engineer's Actual Bookmarks" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5a0,100:00d4ff&height=210&section=header&text=A%20Security%20Engineer%27s%20Actual%20Bookmarks&fontSize=36&fontColor=071013&fontAlignY=38&desc=RECON%20%7C%20OSINT%20%7C%20EXPLOITATION%20%7C%20PRIV-ESC%20%7C%20MALWARE&descSize=16&descAlignY=58&descColor=071013" alt="A Security Engineer's Actual Bookmarks" width="100%">
 
 <br/>
 
