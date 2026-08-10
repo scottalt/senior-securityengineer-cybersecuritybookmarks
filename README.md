@@ -126,18 +126,6 @@ Where I keep up with what broke today.
 
 ---
 
-<div align="center">
-
-## 📈 Star History
-
-<a href="https://star-history.com/#scottalt/senior-securityengineer-cybersecuritybookmarks&Date">
-  <img src="https://api.star-history.com/svg?repos=scottalt/senior-securityengineer-cybersecuritybookmarks&type=Date" alt="Star History Chart" width="70%">
-</a>
-
-</div>
-
----
-
 ## 👤 About the Author
 
 Hi, I'm **Scott Altiparmak**, a Senior Information Security Engineer with 8+ years of experience focused on identity, cloud security, and automation. This repo is my actual working set of bookmarks, curated and shared so the next person doesn't have to rebuild it from scratch.
