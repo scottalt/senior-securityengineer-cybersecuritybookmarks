@@ -25,7 +25,7 @@
 
 ### ⭐ If this saved you a bookmark folder, star it and pass it on. ⭐
 
-**🔎 Looking for the full OSINT arsenal? → [OSINT.md](OSINT.md) (40+ tools)**
+**🔎 Full OSINT arsenal → [OSINT.md](OSINT.md) (40+ tools)  ·  🕶️ Disappear from the internet → [PRIVACY.md](PRIVACY.md) (45+ tools)**
 
 **Jump to:**
 [🕵️ OSINT](#-recon--osint) · [💥 Pentest](#-exploitation--pentest) · [🪜 Priv-Esc](#-windows-privilege-escalation) · [🦠 Malware](#-malware--analysis) · [🎓 Learn](#-learn--practice) · [📰 News](#-news--community) · [👤 About](#-about-the-author)
