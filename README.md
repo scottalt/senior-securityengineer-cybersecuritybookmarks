@@ -25,7 +25,7 @@
 
 ### ⭐ If this saved you a bookmark folder, star it and pass it on. ⭐
 
-**🔎 Full OSINT arsenal → [OSINT.md](OSINT.md) (40+ tools)  ·  🕶️ Disappear from the internet → [PRIVACY.md](PRIVACY.md) (45+ tools)  ·  🎣 How hackers get in → [ATTACK.md](ATTACK.md) (30+ tools)**
+**🔎 Full OSINT arsenal → [OSINT.md](OSINT.md) (40+ tools)  ·  🕶️ Disappear from the internet → [PRIVACY.md](PRIVACY.md) (45+ tools)  ·  🎣 How hackers get in → [ATTACK.md](ATTACK.md) (30+ tools)  ·  📰 Cyber news to follow → [NEWS.md](NEWS.md)**
 
 **Jump to:**
 [🕵️ OSINT](#-recon--osint) · [💥 Pentest](#-exploitation--pentest) · [🪜 Priv-Esc](#-windows-privilege-escalation) · [🦠 Malware](#-malware--analysis) · [🎓 Learn](#-learn--practice) · [📰 News](#-news--community) · [👤 About](#-about-the-author)
