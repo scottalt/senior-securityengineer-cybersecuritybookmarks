@@ -16,7 +16,7 @@
 [![Last commit](https://img.shields.io/github/last-commit/scottalt/senior-securityengineer-cybersecuritybookmarks?style=for-the-badge&color=e05d44&labelColor=0d1117)](https://github.com/scottalt/senior-securityengineer-cybersecuritybookmarks/commits)
 [![License](https://img.shields.io/badge/license-MIT-2ea44f?style=for-the-badge&labelColor=0d1117)](LICENSE)
 
-**Curated by [Scott Altiparmak](https://scottaltiparmak.com) — Senior Information Security Engineer**
+**Curated by [Scott Altiparmak](https://scottaltiparmak.com), Senior Information Security Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott%20Altiparmak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scottaltiparmak)
 [![Instagram](https://img.shields.io/badge/Instagram-@scottaltiparmak-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scottaltiparmak/)
@@ -25,7 +25,14 @@
 
 ### ⭐ If this saved you a bookmark folder, star it and pass it on. ⭐
 
-**🔎 Full OSINT arsenal → [OSINT.md](OSINT.md) (40+ tools)  ·  🕶️ Disappear from the internet → [PRIVACY.md](PRIVACY.md) (45+ tools)  ·  🎣 How hackers get in → [ATTACK.md](ATTACK.md) (30+ tools)  ·  📰 Cyber news to follow → [NEWS.md](NEWS.md) (40+ sources)**
+### 📚 The Collection
+
+| Guide | What's inside |
+| --- | --- |
+| 🔎 **[OSINT.md](OSINT.md)** | Find almost anyone. 40+ recon and people-search tools. |
+| 🕶️ **[PRIVACY.md](PRIVACY.md)** | Disappear from the internet. 45+ removal and hardening tools. |
+| 🎣 **[ATTACK.md](ATTACK.md)** | How hackers actually get in, and how to stop them. 30+ tools. |
+| 📰 **[NEWS.md](NEWS.md)** | Stay sharp. 40+ curated news sources, feeds, and podcasts. |
 
 **Jump to:**
 [🕵️ OSINT](#-recon--osint) · [💥 Pentest](#-exploitation--pentest) · [🪜 Priv-Esc](#-windows-privilege-escalation) · [🦠 Malware](#-malware--analysis) · [🎓 Learn](#-learn--practice) · [📰 News](#-news--community) · [👤 About](#-about-the-author)
