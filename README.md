@@ -33,6 +33,7 @@
 | 🕶️ **[PRIVACY.md](PRIVACY.md)** | Disappear from the internet. 45+ removal and hardening tools. |
 | 🎣 **[ATTACK.md](ATTACK.md)** | How hackers actually get in, and how to stop them. 30+ tools. |
 | 📰 **[NEWS.md](NEWS.md)** | Stay sharp. 40+ curated news sources, feeds, and podcasts. |
+| 📱 **[MOBILE.md](MOBILE.md)** | The security apps on my phone. Turn Android into a pentest kit. |
 
 **Jump to:**
 [🕵️ OSINT](#-recon--osint) · [💥 Pentest](#-exploitation--pentest) · [🪜 Priv-Esc](#-windows-privilege-escalation) · [🦠 Malware](#-malware--analysis) · [🎓 Learn](#-learn--practice) · [📰 News](#-news--community) · [👤 About](#-about-the-author)
