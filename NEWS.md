@@ -15,7 +15,7 @@
 2. **Add my feeds below.** In Feedly, hit the **+** to add content, search each source by name or paste its link, and follow it. Feedly finds the RSS feed for you. Drop them all in one folder (mine is called `ITSec`).
 3. **Read it for 10 minutes every morning.** Open Feedly with your coffee, scan the headlines, read what looks important, and go research anything you don't understand. That's the whole routine.
 
-> 💡 Want the fast path? Ask me for the one-click import file (OPML) and you can load this entire list into Feedly in a single step.
+> ⚡ **Want the fast path?** Grab my [**feeds.opml**](feeds.opml) file (click it, then Download / Save As), open [feedly.com/i/opml](https://feedly.com/i/opml), and upload it under **Import**. My entire feed list loads into your Feedly in one step, no manual adding.
 
 <div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
 
