@@ -34,9 +34,9 @@
             <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
         </outline>
         <outline text="Newsletters" title="Newsletters">
-            <outline type="rss" text="tl;dr sec" title="tl;dr sec" xmlUrl="https://tldrsec.com/rss/" htmlUrl="https://tldrsec.com/"/>
+            <outline type="rss" text="tl;dr sec" title="tl;dr sec" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
             <outline type="rss" text="Risky Business News" title="Risky Business News" xmlUrl="https://riskybiznews.substack.com/feed" htmlUrl="https://news.risky.biz/"/>
-            <outline type="rss" text="Unsupervised Learning" title="Unsupervised Learning" xmlUrl="https://newsletter.danielmiessler.com/rss/" htmlUrl="https://newsletter.danielmiessler.com/"/>
+            <outline type="rss" text="Unsupervised Learning" title="Unsupervised Learning" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com/"/>
         </outline>
         <outline text="Podcasts" title="Podcasts">
             <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" htmlUrl="https://darknetdiaries.com/"/>
