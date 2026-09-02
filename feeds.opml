@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
     <head>
-        <title>Scott's ITSec Feeds - A Security Engineer's Actual Bookmarks</title>
+        <title>A Security Engineer's Actual Bookmarks - Full Feed List</title>
     </head>
     <body>
         <outline text="ITSec" title="ITSec">
@@ -32,6 +32,23 @@
             <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
             <outline type="rss" text="Apple Security updates" title="Apple Security updates" xmlUrl="https://advisories.feedly.com/apple/feed.json" htmlUrl="https://support.apple.com/en-us/100100"/>
             <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
+        </outline>
+        <outline text="Newsletters" title="Newsletters">
+            <outline type="rss" text="tl;dr sec" title="tl;dr sec" xmlUrl="https://tldrsec.com/rss/" htmlUrl="https://tldrsec.com/"/>
+            <outline type="rss" text="Risky Business News" title="Risky Business News" xmlUrl="https://riskybiznews.substack.com/feed" htmlUrl="https://news.risky.biz/"/>
+            <outline type="rss" text="Unsupervised Learning" title="Unsupervised Learning" xmlUrl="https://newsletter.danielmiessler.com/rss/" htmlUrl="https://newsletter.danielmiessler.com/"/>
+        </outline>
+        <outline text="Podcasts" title="Podcasts">
+            <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" htmlUrl="https://darknetdiaries.com/"/>
+            <outline type="rss" text="Smashing Security" title="Smashing Security" xmlUrl="https://www.smashingsecurity.com/rss" htmlUrl="https://www.smashingsecurity.com/"/>
+            <outline type="rss" text="Malicious Life" title="Malicious Life" xmlUrl="https://malicious.life/feed/" htmlUrl="https://malicious.life/"/>
+        </outline>
+        <outline text="Research &amp; Threat Intel" title="Research &amp; Threat Intel">
+            <outline type="rss" text="Google Threat Intelligence (Mandiant)" title="Google Threat Intelligence (Mandiant)" xmlUrl="https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/" htmlUrl="https://cloud.google.com/blog/topics/threat-intelligence"/>
+            <outline type="rss" text="Unit 42" title="Unit 42" xmlUrl="https://unit42.paloaltonetworks.com/feed/" htmlUrl="https://unit42.paloaltonetworks.com/"/>
+            <outline type="rss" text="Citizen Lab" title="Citizen Lab" xmlUrl="https://citizenlab.ca/feed/" htmlUrl="https://citizenlab.ca/"/>
+            <outline type="rss" text="404 Media" title="404 Media" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+            <outline type="rss" text="Zero Day (Kim Zetter)" title="Zero Day (Kim Zetter)" xmlUrl="https://www.zetter-zeroday.com/rss/" htmlUrl="https://www.zetter-zeroday.com/"/>
         </outline>
     </body>
 </opml>
