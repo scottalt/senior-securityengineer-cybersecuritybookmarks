@@ -1,131 +1,124 @@
 <a name="news-top"></a>
 
-# 📰 Cyber News That Keeps You Sharp
+# 📰 Get Dangerously Informed
 
-> The sources that make you the most informed person in any cybersecurity room. Start with the daily reads, load them into an aggregator, and add the newsletters and podcasts once you know what you care about. Everything here is a source I actually rate.
+> If you don't have a way to track cybersecurity news, you're behind. This is the easiest news routine there is: one app, my feed list, ten minutes a morning. Copy my setup and you'll walk into any room already knowing what broke overnight.
 
 **Jump to:**
-[🗞️ Daily Reads](#-daily-reads) · [🔍 Investigative](#-investigative--deep-dives) · [🧪 Threat Intel & Research](#-threat-intel--research-blogs) · [📬 Newsletters](#-newsletters-worth-the-inbox-space) · [🎧 Podcasts](#-podcasts) · [🚨 Advisories & Vulns](#-advisories--vulnerability-feeds) · [👥 Communities](#-communities--aggregators) · [☕ The Routine](#-the-morning-routine)
+[⚡ The Setup](#-the-setup-3-steps) · [🗞️ My Feeds](#-my-starter-feeds) · [➕ Level Up](#-level-up-my-recommended-adds) · [☕ The Routine](#-the-morning-routine)
 
 ---
 
-## 🗞️ Daily reads
+## ⚡ The setup (3 steps)
 
-The core rotation. These alone keep you current.
+1. **Get [Feedly](https://feedly.com).** It's free, works in the browser, and has a phone app. It pulls every news site's RSS feed into one clean place.
+2. **Add my feeds below.** In Feedly, hit the **+** to add content, search each source by name or paste its link, and follow it. Feedly finds the RSS feed for you. Drop them all in one folder (mine is called `ITSec`).
+3. **Read it for 10 minutes every morning.** Open Feedly with your coffee, scan the headlines, read what looks important, and go research anything you don't understand. That's the whole routine.
 
-| Source | Why it makes the list |
-| --- | --- |
-| **[BleepingComputer](https://www.bleepingcomputer.com)** | My favorite for breaking news and cybersecurity in general. |
-| **[The Record](https://therecord.media)** | Really good journalism, especially on major attacks, threat actors, and cybercrime. |
-| **[Krebs on Security](https://krebsonsecurity.com)** | Nothing like a good Krebsing. He breaks stories nobody else has. |
-| **[The Hacker News](https://thehackernews.com)** | Rapid-fire vulnerabilities, malware, threat campaigns, and research. |
-| **[Dark Reading](https://www.darkreading.com)** | A great mix of technical security news and the enterprise side. |
-| **[SecurityWeek](https://www.securityweek.com)** | Solid on vulnerabilities, enterprise security, threat intel, and industry news. |
-| **[CyberScoop](https://cyberscoop.com)** | Policy, government, and industry cyber news done well. |
-| **[Ars Technica Security](https://arstechnica.com/security/)** | Deep, well-written coverage that explains the why. |
-| **[The Register Security](https://www.theregister.com/security/)** | Fast, blunt, and often first with the sharp take. |
+> 💡 Want the fast path? Ask me for the one-click import file (OPML) and you can load this entire list into Feedly in a single step.
 
 <div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
 
-## 🔍 Investigative & deep dives
+## 🗞️ My starter feeds
 
-When you want the full story, not the headline.
+The exact feeds in my Feedly right now. Follow all of them and you've got a professional-grade news setup on day one.
 
-| Source | Why it makes the list |
+### 📰 Breaking news & journalism
+
+| Feed | What it is |
 | --- | --- |
-| **[404 Media](https://www.404media.co)** | Journalist-owned, breaking the tech and cybercrime stories nobody else touches. |
-| **[Zero Day (Kim Zetter)](https://www.zetter-zeroday.com)** | One of the best national-security cyber reporters, in long form. |
-| **[WIRED Security](https://www.wired.com/category/security/)** | Feature-length investigations and the human side of hacking. |
-| **[Schneier on Security](https://www.schneier.com)** | Bruce Schneier's long-running take on security and its politics. |
+| **[BleepingComputer](https://www.bleepingcomputer.com)** | Breaking news, malware, and breaches. |
+| **[The Hacker News](https://thehackernews.com)** | Rapid-fire vulns, malware, and campaigns. |
+| **[The Register (Security)](https://www.theregister.com/security/)** | Fast, blunt, often first with the take. |
+| **[CyberScoop](https://cyberscoop.com)** | Policy, government, and industry cyber news. |
+| **[Dark Reading](https://www.darkreading.com)** | Technical news meets the enterprise side. |
+| **[Security Affairs](https://securityaffairs.com)** | High-volume coverage from Pierluigi Paganini. |
+| **[IT Security Guru](https://www.itsecurityguru.org)** | Quick daily industry roundups. |
+| **[The CyberWire](https://thecyberwire.com)** | Tight daily brief of what happened and why. |
+| **[Krebs on Security](https://krebsonsecurity.com)** | Investigative stories nobody else breaks. |
+| **[Schneier on Security](https://www.schneier.com)** | Security, policy, and the bigger picture. |
+| **[Risky Business](https://risky.biz)** | Sharp news and analysis from people who know. |
+| **[CISO MAG](https://cisomag.com)** | Leadership and enterprise security angle. |
 
 <div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
 
-## 🧪 Threat intel & research blogs
+### 🏢 Vendor & research blogs
 
-Straight from the teams doing the analysis.
-
-| Source | Why it makes the list |
+| Feed | What it is |
 | --- | --- |
-| **[Google Threat Intelligence (Mandiant)](https://cloud.google.com/blog/topics/threat-intelligence)** | Frontline incident and threat-actor research from Mandiant. |
-| **[Cisco Talos](https://blog.talosintelligence.com)** | Deep technical write-ups and vulnerability research. |
+| **[CrowdStrike Blog](https://www.crowdstrike.com/blog/)** | Threat-actor tracking and incident research. |
+| **[Kaspersky Blog](https://www.kaspersky.com/blog/)** | Research, malware analysis, and consumer tips. |
+| **[Malwarebytes](https://www.malwarebytes.com/blog)** | Approachable malware and threat coverage. |
 | **[Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)** | MSTIC threat intel and nation-state tracking. |
-| **[Unit 42 (Palo Alto)](https://unit42.paloaltonetworks.com)** | Malware and threat-campaign breakdowns. |
-| **[Google Project Zero](https://googleprojectzero.blogspot.com)** | The gold standard for offensive vulnerability research. |
-| **[Citizen Lab](https://citizenlab.ca)** | Spyware, surveillance, and human-rights digital-security research. |
+| **[Tenable Blog](https://www.tenable.com/blog)** | Vulnerability management and disclosure research. |
+| **[Darknet](https://www.darknet.org.uk)** | Hacking tools and offensive-security news. |
 
 <div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
 
-## 📬 Newsletters worth the inbox space
+### 🚨 Alerts, advisories & vulns
 
-The signal, filtered and delivered.
-
-| Source | Why it makes the list |
+| Feed | What it is |
 | --- | --- |
-| **[tl;dr sec](https://tldrsec.com)** | Clint Gibler's weekly roundup, the best in appsec and beyond. |
-| **[Risky Business News](https://news.risky.biz)** | Sharp daily and weekly cyber news brief. |
-| **[Unsupervised Learning](https://newsletter.danielmiessler.com)** | Daniel Miessler on security, AI, and where they meet. |
-| **[Return on Security](https://www.returnonsecurity.com)** | The business and funding side of the cyber industry. |
-| **[SANS NewsBites](https://www.sans.org/newsletters/newsbites/)** | Twice-weekly summary of the news that matters, with expert notes. |
+| **[CISA Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories)** | Official US advisories and ICS alerts. |
+| **[CISA Alerts](https://www.cisa.gov/news-events/alerts)** | Time-sensitive US government alerts. |
+| **[CERT/CC Vulnerability Notes](https://www.kb.cert.org/vuls/)** | Newly published, coordinated vuln disclosures. |
+| **[SANS Internet Storm Center](https://isc.sans.edu)** | Daily handler diaries on active threats. |
+| **[Apple Security Updates](https://support.apple.com/en-us/100100)** | Every Apple security patch as it ships. |
+| **[Have I Been Pwned](https://haveibeenpwned.com)** | Latest breaches added to the database. |
 
 <div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
 
-## 🎧 Podcasts
+## ➕ Level up (my recommended adds)
 
-For the commute, the gym, or the drive.
+Once the daily feeds are flowing, these sharpen the signal. Newsletters do the filtering for you, podcasts cover the commute, and the research blogs go deep.
 
-| Source | Why it makes the list |
+### 📬 Newsletters
+
+| Source | What it is |
 | --- | --- |
-| **[Darknet Diaries](https://darknetdiaries.com)** | The best storytelling in security. True tales of hacks and heists. |
-| **[Risky Business](https://risky.biz)** | Weekly news and analysis from people who actually know. |
-| **[Smashing Security](https://www.smashingsecurity.com)** | News with a sense of humor, and it still teaches you something. |
-| **[Malicious Life](https://malicious.life)** | The history behind the biggest moments in cybersecurity. |
-| **[The CyberWire Daily](https://thecyberwire.com)** | A tight daily brief of what happened and why it matters. |
+| **[tl;dr sec](https://tldrsec.com)** | The best weekly roundup, strong on appsec. |
+| **[Risky Business News](https://news.risky.biz)** | Sharp daily and weekly news brief. |
+| **[Unsupervised Learning](https://newsletter.danielmiessler.com)** | Security, AI, and where they meet. |
+| **[Return on Security](https://www.returnonsecurity.com)** | The business and funding side of cyber. |
+| **[SANS NewsBites](https://www.sans.org/newsletters/newsbites/)** | Twice-weekly summary with expert notes. |
 
-<div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
+### 🎧 Podcasts
 
-## 🚨 Advisories & vulnerability feeds
-
-Straight from the source when something is actually on fire.
-
-| Source | Why it makes the list |
+| Source | What it is |
 | --- | --- |
-| **[CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)** | The list of vulnerabilities being exploited right now. Patch these first. |
-| **[CISA Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories)** | Official US alerts, ICS advisories, and guidance. |
-| **[NVD](https://nvd.nist.gov)** | The National Vulnerability Database, the CVE system of record. |
-| **[CVE.org](https://www.cve.org)** | Search and track CVEs at the source. |
+| **[Darknet Diaries](https://darknetdiaries.com)** | The best storytelling in security. |
+| **[Smashing Security](https://www.smashingsecurity.com)** | News with a sense of humor. |
+| **[Malicious Life](https://malicious.life)** | The history behind the big moments. |
 
-<div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
+### 🧪 Threat intel & deep research
 
-## 👥 Communities & aggregators
-
-Where the feeds come together and the discussion happens.
-
-| Source | Why it makes the list |
+| Source | What it is |
 | --- | --- |
-| **[Feedly](https://feedly.com)** | The aggregator. Pull every feed above into one place. |
-| **[Hacker News](https://news.ycombinator.com)** | The Y Combinator forum, where big security stories get dissected. |
-| **[r/netsec](https://www.reddit.com/r/netsec)** | Technical security news and research, curated by the community. |
-| **[infosec.exchange](https://infosec.exchange)** | The infosec Mastodon community, where a lot of the pros hang out. |
+| **[Google Threat Intelligence (Mandiant)](https://cloud.google.com/blog/topics/threat-intelligence)** | Frontline incident and actor research. |
+| **[Cisco Talos](https://blog.talosintelligence.com)** | Deep technical write-ups and vuln research. |
+| **[Unit 42](https://unit42.paloaltonetworks.com)** | Malware and threat-campaign breakdowns. |
+| **[Google Project Zero](https://googleprojectzero.blogspot.com)** | The gold standard in vuln research. |
+| **[Citizen Lab](https://citizenlab.ca)** | Spyware and surveillance research. |
+| **[404 Media](https://www.404media.co)** | Journalist-owned, breaks the stories others won't. |
+| **[Zero Day (Kim Zetter)](https://www.zetter-zeroday.com)** | Long-form national-security cyber reporting. |
 
 <div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
 
 ## ☕ The morning routine
 
-The trick isn't reading every site separately. It's not doing that.
+The whole point is to make this effortless. Everything lands in Feedly, so you never chase it.
 
-1. Make a free [Feedly](https://feedly.com) account.
-2. Add the Daily Reads and any Threat Intel blogs you like as feeds (Feedly finds each site's RSS automatically).
-3. Subscribe to one or two newsletters so the weekly signal comes to you.
-4. Open Feedly every morning with your coffee and skim the headlines.
+1. Open [Feedly](https://feedly.com) with your coffee.
+2. Skim the headlines in your `ITSec` folder.
+3. Read the three or four that actually matter.
+4. Go research anything you don't understand. That's how you connect the dots and get dangerously informed.
 
-Fifteen minutes a day and you'll walk into any room already knowing what broke overnight.
-
-> 💡 Pro tip: keep the Daily Reads for breadth, lean on the Newsletters for the "what actually mattered this week" filter, and check the CISA KEV Catalog whenever a big vuln is trending.
+Ten minutes a day. That's it.
 
 <div align="right"><sub><a href="#news-top">↑ back to top</a></sub></div>
 
 ---
 
 <div align="center">
-  <sub>Part of <a href="README.md">A Security Engineer's Actual Bookmarks</a> · Pairs with <a href="OSINT.md">OSINT</a>, <a href="ATTACK.md">Attack</a>, and <a href="PRIVACY.md">Privacy</a> · Built by <a href="https://scottaltiparmak.com">Scott Altiparmak</a> · ⭐ Star the repo if it helped</sub>
+  <sub>Part of <a href="README.md">A Security Engineer's Actual Bookmarks</a> · Pairs with <a href="OSINT.md">OSINT</a>, <a href="ATTACK.md">Attack</a>, <a href="PRIVACY.md">Privacy</a>, and <a href="MOBILE.md">Mobile</a> · Built by <a href="https://scottaltiparmak.com">Scott Altiparmak</a> · ⭐ Star the repo if it helped</sub>
 </div>

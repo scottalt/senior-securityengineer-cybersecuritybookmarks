@@ -32,7 +32,7 @@
 | 🔎 **[OSINT.md](OSINT.md)** | Find almost anyone. 40+ recon and people-search tools. |
 | 🕶️ **[PRIVACY.md](PRIVACY.md)** | Disappear from the internet. 45+ removal and hardening tools. |
 | 🎣 **[ATTACK.md](ATTACK.md)** | How hackers actually get in, and how to stop them. 30+ tools. |
-| 📰 **[NEWS.md](NEWS.md)** | Stay sharp. 40+ curated news sources, feeds, and podcasts. |
+| 📰 **[NEWS.md](NEWS.md)** | Get dangerously informed. My Feedly setup and RSS feed list. |
 | 📱 **[MOBILE.md](MOBILE.md)** | The security apps on my phone. Turn Android into a pentest kit. |
 
 **Jump to:**
