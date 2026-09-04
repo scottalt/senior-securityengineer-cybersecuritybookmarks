@@ -34,6 +34,7 @@
 | 🎣 **[ATTACK.md](ATTACK.md)** | How hackers actually get in, and how to stop them. 30+ tools. |
 | 📰 **[NEWS.md](NEWS.md)** | Get dangerously informed. My Feedly setup and RSS feed list. |
 | 📱 **[MOBILE.md](MOBILE.md)** | The security apps on my phone. Turn Android into a pentest kit. |
+| 🎓 **[LEARN.md](LEARN.md)** | Study real attacks. 5 free resources that teach the actual job. |
 
 **Jump to:**
 [🕵️ OSINT](#-recon--osint) · [💥 Pentest](#-exploitation--pentest) · [🪜 Priv-Esc](#-windows-privilege-escalation) · [🦠 Malware](#-malware--analysis) · [🎓 Learn](#-learn--practice) · [📰 News](#-news--community) · [👤 About](#-about-the-author)
