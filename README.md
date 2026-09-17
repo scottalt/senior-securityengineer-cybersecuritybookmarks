@@ -35,6 +35,7 @@
 | 📰 **[NEWS.md](NEWS.md)** | Get dangerously informed. My Feedly setup and RSS feed list. |
 | 📱 **[MOBILE.md](MOBILE.md)** | The security apps on my phone. Turn Android into a pentest kit. |
 | 🎓 **[LEARN.md](LEARN.md)** | Study real attacks. 5 free resources that teach the actual job. |
+| 📄 **[RESUME.md](RESUME.md)** | Free cybersecurity resume templates, entry-level and experienced. |
 
 **Jump to:**
 [🕵️ OSINT](#-recon--osint) · [💥 Pentest](#-exploitation--pentest) · [🪜 Priv-Esc](#-windows-privilege-escalation) · [🦠 Malware](#-malware--analysis) · [🎓 Learn](#-learn--practice) · [📰 News](#-news--community) · [👤 About](#-about-the-author)
