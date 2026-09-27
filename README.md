@@ -36,6 +36,7 @@
 | 📱 **[MOBILE.md](MOBILE.md)** | The security apps on my phone. Turn Android into a pentest kit. |
 | 🎓 **[LEARN.md](LEARN.md)** | Study real attacks. 5 free resources that teach the actual job. |
 | 🕹️ **[PRACTICE.md](PRACTICE.md)** | Practice hacking legally. 7 free hands-on labs and platforms. |
+| 🪟 **[WINDOWS.md](WINDOWS.md)** | Free Windows tools every IT and security pro should have. |
 | 📄 **[RESUME.md](RESUME.md)** | Free cybersecurity resume templates, entry-level and experienced. |
 
 **Jump to:**
