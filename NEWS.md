@@ -47,7 +47,6 @@ The exact feeds in my Feedly right now. Follow all of them and you've got a prof
 | Feed | What it is |
 | --- | --- |
 | **[CrowdStrike Blog](https://www.crowdstrike.com/blog/)** | Threat-actor tracking and incident research. |
-| **[Kaspersky Blog](https://www.kaspersky.com/blog/)** | Research, malware analysis, and consumer tips. |
 | **[Malwarebytes](https://www.malwarebytes.com/blog)** | Approachable malware and threat coverage. |
 | **[Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)** | MSTIC threat intel and nation-state tracking. |
 | **[Tenable Blog](https://www.tenable.com/blog)** | Vulnerability management and disclosure research. |

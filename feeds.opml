@@ -18,7 +18,6 @@
             <outline type="rss" text="Risky Business" title="Risky Business" xmlUrl="http://risky.biz/feeds/risky-business" htmlUrl="https://risky.biz/"/>
             <outline type="rss" text="CISO MAG" title="CISO MAG" xmlUrl="https://www.cisomag.com/feed/" htmlUrl="https://cisomag.com/"/>
             <outline type="rss" text="CrowdStrike Blog" title="CrowdStrike Blog" xmlUrl="http://blog.crowdstrike.com/feed" htmlUrl="https://www.crowdstrike.com/blog/"/>
-            <outline type="rss" text="Kaspersky official blog" title="Kaspersky official blog" xmlUrl="http://blog.kaspersky.com/feed/" htmlUrl="https://www.kaspersky.com/blog"/>
             <outline type="rss" text="Malwarebytes" title="Malwarebytes" xmlUrl="http://blog.malwarebytes.org/feed/" htmlUrl="https://www.malwarebytes.com/"/>
             <outline type="rss" text="Microsoft Security Blog" title="Microsoft Security Blog" xmlUrl="http://blogs.technet.com/mmpc/rss.xml" htmlUrl="https://www.microsoft.com/en-us/security/blog/"/>
             <outline type="rss" text="Tenable Blog" title="Tenable Blog" xmlUrl="http://blog.tenablesecurity.com/atom.xml" htmlUrl="https://www.tenable.com/"/>

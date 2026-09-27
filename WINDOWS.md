@@ -4,6 +4,8 @@
 
 > The free tools I actually keep on every Windows machine I touch, as an IT and security engineer. Every one is free, and a few are the difference between a slow day and an easy one. The ⭐ marks the five in the video.
 
+> ✅ **Always download from the official site linked here.** Tools this popular are heavily impersonated by fake download pages and malvertising.
+
 **Jump to:**
 [🧰 System & Internals](#-system--internals) · [🌐 Networking](#-networking) · [💽 Disk, Files & Setup](#-disk-files--setup) · [⚙️ Power Tools](#-power-tools)
 
@@ -23,7 +25,7 @@
 
 | Tool | What it does |
 | --- | --- |
-| ⭐ **[Advanced IP Scanner](https://www.advanced-ip-scanner.com/)** | Scan your network and see every device in seconds. |
+| ⭐ **[Angry IP Scanner](https://angryip.org/)** | Open-source scanner that maps every device on your network in seconds. |
 | **[Wireshark](https://www.wireshark.org/)** | The standard for capturing and analyzing network traffic. |
 | **[PuTTY](https://www.putty.org/)** | Free SSH and serial client for remote access. |
 
