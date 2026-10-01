@@ -7,7 +7,7 @@
 > 💡 The move: build it, write it up, put it on GitHub, and turn each project into a resume bullet (see [RESUME.md](RESUME.md)). Documenting it is what turns a weekend lab into proof.
 
 **Jump to:**
-[🟢 Beginner](#-beginner) · [🟡 Intermediate](#-intermediate) · [🔴 Advanced](#-advanced) · [🚀 Beyond Advanced](#-beyond-advanced)
+[🟢 Beginner](#-beginner) · [🟡 Intermediate](#-intermediate) · [🔴 Advanced](#-advanced) · [🚀 Beyond Advanced](#-beyond-advanced) · [📚 Resources](#-resources)
 
 ---
 
@@ -56,23 +56,31 @@ Portfolio pieces that look like the actual job.
 
 ## 🚀 Beyond advanced
 
-The real unlock: stop doing tutorials and go solve something. Pick a problem that genuinely interests you, or a real annoyance you have, and build a tool or automation for it. It does not have to be perfect, and it does not matter if it is AI-assisted or "vibe coded." Shipping something real that solves a genuine problem beats another finished tutorial every time.
+The real unlock: stop doing tutorials and go solve something. Pick a genuine problem, ideally one you actually hit, and build a tool or automation for it. It does not have to be perfect, and it does not matter if it is AI-assisted or "vibe coded." Shipping something that solves a real problem beats another finished tutorial every time.
 
-Where to find problems and challenges worth building around:
+Two of mine, as examples:
 
-| Source | Why |
+| Project | The story |
 | --- | --- |
-| **[TryHackMe](https://tryhackme.com)** | Endless guided scenarios you can extend into your own projects. |
-| **[Hack The Box](https://www.hackthebox.com)** | Realistic targets that spark tooling and automation ideas. |
-| **Threat Terminal** | Live threats and intel to build detection and enrichment projects around. |
+| **[Enterprise Zapp](https://github.com/scottalt/Enterprise-Zapp)** | I kept hitting the same issues at work, so I built this to solve them. A real problem turned into a real project. |
+| **[Threat Terminal](https://github.com/scottalt/ai-email-threat-research)** | AI-driven email threat research. Scratching a security itch and shipping it. |
 
-And the goal to aim for, a real project of your own:
-
-| Example | What it is |
-| --- | --- |
-| **[Enterprise Zapp](https://github.com/scottalt/Enterprise-Zapp)** | My own project. Proof that solving a real problem and shipping it is the whole point. |
+That is the bar: find something that annoys you or interests you, and build it. That project becomes the thing you actually talk about in interviews.
 
 > ⚠️ Only test and attack systems you own or have written permission to use. Build in your own lab.
+
+<div align="right"><sub><a href="#projects-top">↑ back to top</a></sub></div>
+
+## 📚 Resources
+
+Where to build skills and pull ideas for the projects above.
+
+| Resource | Why |
+| --- | --- |
+| **[TryHackMe](https://tryhackme.com)** | Guided rooms and scenarios you can extend into your own projects. |
+| **[Hack The Box](https://www.hackthebox.com)** | Realistic targets that spark tooling and automation ideas. |
+
+> See [PRACTICE.md](PRACTICE.md) for the full list of free hands-on platforms.
 
 <div align="right"><sub><a href="#projects-top">↑ back to top</a></sub></div>
 
