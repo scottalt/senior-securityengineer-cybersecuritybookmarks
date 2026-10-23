@@ -31,6 +31,7 @@
             <outline type="rss" text="CERT Recently Published Vulnerability Notes" title="CERT Recently Published Vulnerability Notes" xmlUrl="http://www.kb.cert.org/vulfeed" htmlUrl="https://kb.cert.org/vuls/"/>
             <outline type="rss" text="Apple Security updates" title="Apple Security updates" xmlUrl="https://advisories.feedly.com/apple/feed.json" htmlUrl="https://support.apple.com/en-us/100100"/>
             <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
+            <outline type="rss" text="ICHI – Internet Cyber Health Index" title="ICHI – Internet Cyber Health Index" xmlUrl="https://ichi.global/api/alerts" htmlUrl="https://ichi.global/"/>
         </outline>
         <outline text="Newsletters" title="Newsletters">
             <outline type="rss" text="tl;dr sec" title="tl;dr sec" xmlUrl="https://tldrsec.com/feed.xml" htmlUrl="https://tldrsec.com/"/>
